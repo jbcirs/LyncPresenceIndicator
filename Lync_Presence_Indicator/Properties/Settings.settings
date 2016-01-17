@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lync_Presence_Indicator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LyncLightEnabled" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OnCall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Solid</Value>
+    </Setting>
+    <Setting Name="Ringing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Blinking</Value>
+    </Setting>
+    <Setting Name="Available" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green/Solid</Value>
+    </Setting>
+    <Setting Name="Busy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Solid</Value>
+    </Setting>
+    <Setting Name="Conference" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Solid</Value>
+    </Setting>
+    <Setting Name="Meeting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Solid</Value>
+    </Setting>
+    <Setting Name="DoNotDisturb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red/Solid</Value>
+    </Setting>
+    <Setting Name="Away" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Off</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
